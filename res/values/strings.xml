@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To-Do List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="create_task">+</string>
+
+    <item name="header_size" format="integer" type="integer">14</item>
+
+    <string name="title_activity_create_task">Create Task</string>
+    <string name="title_activity_display">Task Information</string>
+    <string name="title_display_name">Name:</string>
+    <string name="title_display_date">Date:</string>
+    <string name="title_display_time">Time:</string>
+    <string name="title_display_priority">Priority:</string>
+    <string name="title_display_name_value"></string>
+    <string name="title_display_date_value"></string>
+    <string name="title_display_time_value"></string>
+    <string name="title_display_priority_value"></string>
+    <string name="title_create_priority">Priority:</string>
+    <string name="edit_create_task"></string>
+    <string name="edit_create_task_hint">Title</string>
+    <string name="edit_create_date_hint">Date</string>
+    <string name="edit_create_time_hint">Time</string>
+    <string name="edit_create_button_save">Save</string>
+    <string name="edit_create_radio_button_1_name">High</string>
+    <string name="edit_create_radio_button_2_name">Medium</string>
+    <string name="edit_create_radio_button_3_name">Low</string>
+    <string name="main_create_button">+</string>
+    <string name="main_text_view">Tasks</string>
+    <string name="create_title">Create Task</string>
+    <string name="display_activity_title">Display Activity</string>
+    <string name="edit_title">Edit Task</string>
+
+</resources>
